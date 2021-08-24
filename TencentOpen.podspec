@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name                  = 'TencentOpen'
-  s.version               = '3.5.1.3'
+  s.version               = '3.5.5.121'
   s.summary               = 'A Mirror For TencentOpenApiSDK'
   s.homepage              = 'https://wiki.connect.qq.com'
   s.ios.deployment_target = '7.0'
